@@ -1,6 +1,6 @@
 
 var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
-
+var a;
 var randomDiceImage = "dice" + randomNumber1 + ".png"; //dice1.png - dice6.png
 
 var randomImageSource =  randomDiceImage;
